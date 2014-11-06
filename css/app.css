@@ -19,16 +19,16 @@ button {
   text-align: center;
   text-decoration: none;
   text-shadow: 0 -1px 1px #730000; }
-  /* line 204, C:\Users\jason_000\Github\bourbon-example/bourbon/addons/button */
+  /* line 204, C:\Users\jason_000\Github\bourbon-example\bower_components\bourbon\dist/addons/button */
   button:hover:not(:disabled) {
     cursor: pointer;
     background-color: #f20000;
     background-image: -webkit-linear-gradient(top, #f20000 0%, #bd0000 50%, #a20000 50%, #a90000 100%);
     background-image: linear-gradient(to bottom,#f20000 0%, #bd0000 50%, #a20000 50%, #a90000 100%); }
-  /* line 225, C:\Users\jason_000\Github\bourbon-example/bourbon/addons/button */
+  /* line 225, C:\Users\jason_000\Github\bourbon-example\bower_components\bourbon\dist/addons/button */
   button:active:not(:disabled), button:focus:not(:disabled) {
     box-shadow: inset 0 0 20px 0 #900000; }
-  /* line 51, C:\Users\jason_000\Github\bourbon-example/bourbon/addons/button */
+  /* line 51, C:\Users\jason_000\Github\bourbon-example\bower_components\bourbon\dist/addons/button */
   button:disabled {
     opacity: 0.5;
     cursor: not-allowed; }

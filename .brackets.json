@@ -4,7 +4,7 @@
             "sass.enabled": true,
             "sass.options": {
                 "includePaths": [
-                    "../"
+                    "../bower_components/bourbon/dist/"
                 ],
                 "outputDir": "../css/",
                 "imagePath": null,
