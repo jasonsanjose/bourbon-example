@@ -1,4 +1,5 @@
 {
+    "sass.enabled": false,
     "path": {
         "scss/app.scss": {
             "sass.enabled": true,
@@ -8,7 +9,7 @@
                 ],
                 "outputDir": "../css/",
                 "imagePath": null,
-                "sourceComments": "map",
+                "sourceComments": false,
                 "outputStyle": "nested"
             },
             "linting.collapsed": false
