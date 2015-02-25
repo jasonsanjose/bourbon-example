@@ -2,9 +2,9 @@
   "version": 3,
   "file": "app.css",
   "sources": [
-    "app.scss",
+    "../scss/app.scss",
     "../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss",
-    "partial.scss",
+    "../scss/partial.scss",
     "../bower_components/bourbon/app/assets/stylesheets/settings/_prefixer.scss",
     "../bower_components/bourbon/app/assets/stylesheets/settings/_px-to-em.scss",
     "../bower_components/bourbon/app/assets/stylesheets/settings/_asset-pipeline.scss",
@@ -85,6 +85,5 @@
   ],
   "sourcesContent": [],
   "mappings": "AEAA;EACI,AAAO;;AFEX;EACI,AmEQQ;;AnELZ;EmD2BE,AAPiB;EAQjB,AAAkB;EAClB,AAAkB;E4BgKlB,AAAQ;EACR,AAAe;EACf,AAAe;EACf,AAAY;EACZ,AA9BgB;EA+BhB,AAAS;EACT,AAlM+D;EAmM/D,AAAa;EACb,AApMkF;EAqMlF,AAAY;EACZ,AAAiB;EACjB,AAAa;EAEf,AAAM,AAAM,AAAK;I5B/Kf,AAPiB;IAQjB,AAAkB;IAClB,AAAkB;I4B8LhB,AAAQ;EAGZ,AAAM,AAAO,AAAK,AAAY,AAAM,AAAM,AAAK;IAQ3C,AAAY;EAnLhB,AAAM;IACF,AAAQ;IACR,AAAS",
-  "names": [],
-  "sourceRoot": "../scss/"
+  "names": []
 }
